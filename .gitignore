@@ -1,0 +1,26 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+
+
+# Virtual environments
+venv/
+.env
+.env.*
+!.env.example
+
+node_modules/
+
+*.log
+npm-debug.log*
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+#private
+*bala1
